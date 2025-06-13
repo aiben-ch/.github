@@ -11,4 +11,4 @@ Official Website: https://aiben.ch/
 
 Maintained by **Special Interest Group on Benchmarks (SIGBen)**
 
-**Group Member： [Zicheng Zhang](https://github.com/zzc-1998)**
+**Group Member： [Zicheng Zhang](https://github.com/zzc-1998)**, Junying Wang, Yijin Guo, Qi Jia, Guangtao Zhai 
