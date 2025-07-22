@@ -9,6 +9,6 @@ Official Website: https://aiben.ch/
 微信公众号：评测者说
 
 
-Maintained by **Special Interest Group on Benchmarks (SIGBen)**
+Maintained by **AIBench Team**
 
-**Group Member： [Zicheng Zhang](https://github.com/zzc-1998)**, Junying Wang, Yijin Guo, Qi Jia, Guangtao Zhai 
+**Group Member： [Zicheng Zhang](https://github.com/zzc-1998)**, Junying Wang, Yijin Guo, Qi Jia, Farong Wen, Guangtao Zhai 
